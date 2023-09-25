@@ -3,7 +3,8 @@ import board
 
 import adafruit_hcsr04
 
-sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D7, echo_pin=board.D6)
+sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D4, echo_pin=board.D6)
+
 
 while True:
     try:
@@ -14,4 +15,4 @@ while True:
     time.sleep(0.1)
        
 
-    time.sleep(0.1) # sleep for debounce    
+    time.sleep(0.1) # sleep for debounce 
