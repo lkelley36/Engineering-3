@@ -19,7 +19,8 @@ You should be able to complete this assignment in 1 hour.
 
 ![image](https://github.com/lkelley36/Engineering-3/assets/143534776/804dff73-58c2-41e5-9455-e2873343eadb)
 
-![image](https://github.com/lkelley36/Engineering-3/assets/143534776/a5b81b46-477f-4296-910f-b5d19723963a)
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/09beb5f0-ec71-42b7-a26e-dbba353c5ed7)
+
 
 
 ### Part Link 
@@ -29,7 +30,7 @@ https://cvilleschools.onshape.com/documents/13abd96831219b12c9b351d2/w/865e8c245
 
 ### Reflection
 
-This
+This assignment was also pretty easy. I had fun helping others with the assignment too. I did have trouble figuring out the weight problems but I had help with that and figured it out.
 
 
 
