@@ -4,7 +4,7 @@
 
 Make a copy of this document.Links to an external site.
 
-Rename the and replace COpy with your name.
+Rename the and replace Copy with your name.
 
 Create all of the parts needed for the assembly.  The cylinder is given as a starting point.
  
