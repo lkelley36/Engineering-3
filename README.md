@@ -156,3 +156,37 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
 
+
+
+
+## Multipart Design
+
+### Assignment Description
+
+Make a copy of this document.Links to an external site.
+
+Rename the and replace COpy with your name.
+
+Create all of the parts needed for the assembly.  The cylinder is given as a starting point.
+ 
+Answer the 4 questions below.  There is a question about the initial assembly and then one for each of the three revisions to the product.
+
+You should be able to complete this assignment in 1 hour.
+
+### Evidence
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/bc6e336e-20b6-4832-b26e-64d59757aace)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/804dff73-58c2-41e5-9455-e2873343eadb)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/a5b81b46-477f-4296-910f-b5d19723963a)
+
+### Part Link 
+
+https://cvilleschools.onshape.com/documents/13abd96831219b12c9b351d2/w/865e8c2452950c83fb0c5edc/e/ec7dc3c03011d8318c22b287
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
