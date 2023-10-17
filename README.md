@@ -1,4 +1,4 @@
-## Multipart Design
+## Multipart
 
 ### Assignment Description
 
@@ -12,6 +12,7 @@ Answer the 4 questions below.  There is a question about the initial assembly an
 
 You should be able to complete this assignment in 1 hour.
 
+
 ### Evidence
 
 ![image](https://github.com/lkelley36/Engineering-3/assets/143534776/bc6e336e-20b6-4832-b26e-64d59757aace)
@@ -20,24 +21,26 @@ You should be able to complete this assignment in 1 hour.
 
 ![image](https://github.com/lkelley36/Engineering-3/assets/143534776/a5b81b46-477f-4296-910f-b5d19723963a)
 
+
 ### Part Link 
 
 https://cvilleschools.onshape.com/documents/13abd96831219b12c9b351d2/w/865e8c2452950c83fb0c5edc/e/ec7dc3c03011d8318c22b287
 
+
 ### Reflection
 
-This 
+This
 
 
 
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-## Onshape Hangar
+## Hangar
 
 ### Assignment Description
 
-Create the part on onshape using the bluebrints that make the part.
+Create the part on onshape using the bluebrints that are used to make the part.
 
 
 ### Evidence
@@ -57,3 +60,38 @@ https://cvilleschools.onshape.com/documents/158969367f1b634016a8127a/w/6c453bc7a
 ### Reflection
 
 This Onshape part was easy to make. It was very simple and thew blueprints were clear. Using the blueprints make everything so much easier and I had fun challenging myself.
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+## Swing Arm
+
+### Assignment Description
+
+Create the part on onshape using the blueprints that are used to make the part.
+
+
+### Evidence
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/67d3df66-2739-4725-bc45-26d732c9b168)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/ad22807c-c0bf-4c9d-b843-d76a9f1244b4)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/4dde812c-a2c6-40d0-a1f6-b7a88b0e8c91)
+
+
+### Part Link
+
+https://cvilleschools.onshape.com/documents/eb16edd0f08abf7b8d5c4e1e/w/2999fb850d79c33bb046f881/e/b580cae2f2b7b2aa090a5a12?renderMode=0&uiState=652ebd1a809fa62717165c2e
+
+
+### Reflection
+
+This part was pretty easy to make. Especially since the blueprints were pretty clear. I liked challenging myself with this assignment too and I had fun helping others with it.
+
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
