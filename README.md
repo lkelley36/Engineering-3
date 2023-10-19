@@ -18,7 +18,7 @@ Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.
 
 ### Reflection
 
-This assignment was pretty simple. I had fun getting the servo to work too. I'm not the best at coding but I had lots of help with this assignment. One thing I struggled with though was getting the things I needed from the adafruit libraries, it's a bit more complex as to what I'm used to coding with.
+This assignment was pretty simple. I had fun getting the servo to work too. I'm not the best at coding but I had lots of help with this assignment. One thing I struggled with though was getting the things I needed from the adafruit libraries, it's a bit more complex as to what I'm used to coding with. I learned a little more about how to wire up a servo which was helpful. I'd say in the future, make a list of all the things the code needs before you start writing it.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -45,7 +45,7 @@ For your final version of this code, you'll smoothly shift the color of the onbo
 
 ### Reflection
 
-In this assignment I had to wire up the ultrasonic sensor and make it tell me the distance of an object from it using the serial monitor in CircuitPython. This assignment was a bit easier since I had a concept of how it works from last year. I still had lots of help with it though because of all the files and copying/pasting.
+In this assignment I had to wire up the ultrasonic sensor and make it tell me the distance of an object from it using the serial monitor in CircuitPython. This assignment was a bit easier since I had a concept of how it works from last year. I still had lots of help with it though because of all the files and copying/pasting. I learned more about how to code the serial monitor to tell me values from the sensor. If you ever wired one up, I suggest using the serial monitor the most you can.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
