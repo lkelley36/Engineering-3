@@ -2,19 +2,23 @@
 
 ### Description & Code
 
+Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.
 
 
 ### Evidence
 
 
 
+
 ### Wiring
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/2ffca5f5-c311-4c96-9e53-cf6f39cc1b04)
 
 
 
 ### Reflection
 
-
+This assignment was pretty simple. I had fun getting the servo to work too. I'm not the best at coding but I had lots of help with this assignment. One thing I struggled with though was getting the things I needed from the adafruit libraries, it's a bit more complex as to what I'm used to coding with.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -23,6 +27,11 @@ ________________________________________________________________________________
 
 ### Description & Code
 
+Use the HC-SR04 to measure the distance to an object and print that out to your serial monitor or LCD in cm.
+
+Next, you will get the neopixel to turn red when your object is less than 5cm, and green when its 35cm.  Ignore the blue and 20cm for now, let's just keep it simple.
+
+For your final version of this code, you'll smoothly shift the color of the onboard neopixel, corresponding to the distance.
 
 
 ### Evidence
@@ -31,11 +40,12 @@ ________________________________________________________________________________
 
 ### Wiring
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/354f5117-c692-41a4-8ed8-9b3d6e36a47c)
 
 
 ### Reflection
 
-
+In this assignment I had to wire up the ultrasonic sensor and make it tell me the distance of an object from it using the serial monitor in CircuitPython. This assignment was a bit easier since I had a concept of how it works from last year. I still had lots of help with it though because of all the files and copying/pasting.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -44,6 +54,9 @@ ________________________________________________________________________________
 
 ### Description & Code
 
+Wire up a 6v battery pack to this circuit with a motor.
+
+Write Python code to make the motor speed up and slow down, based on input from a potentiometer.
 
 
 ### Evidence
@@ -52,30 +65,12 @@ ________________________________________________________________________________
 
 ### Wiring
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/4faf966d-3fce-4b23-b02d-0aaa919cda36)
 
 
 ### Reflection
 
-
-
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
-## RGB LED
-
-### Description & Code
-
-
-
-### Evidence
-
-
-
-### Wiring
-
-
-
-### Reflection
+This assignment was a bit difficult for me since it involved the potentiometer. I had to find all the correct example file that I need to use in Circuit Python which made it difficult. Again, I had help from experts and it worked pretty well.
 
 
 
