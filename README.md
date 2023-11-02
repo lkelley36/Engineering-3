@@ -188,7 +188,7 @@ Create the part in Onshape using the blueprints in the studio to make it.
 
 ![image](https://github.com/lkelley36/Engineering-3/assets/143534776/01780cd8-ca96-4b28-860d-1f9d7c1c85e8)
 
-![image](https://github.com/lkelley36/Engineering-3/assets/143534776/5c445d43-079a-47e5-ad8d-23a04befb6e1)
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/f8f083d4-7e00-4621-940b-caf43219d7fb)
 
 
 ### Part Link
