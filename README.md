@@ -175,3 +175,32 @@ This part was pretty easy to make. Especially since the blueprints were pretty c
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+## Single Part
+
+### Assignment Description
+
+Create the part in Onshape using the blueprints in the studio to make it.
+
+
+### Evidence
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/5c723d43-c29a-41ea-b393-d1a7334cdae3)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/01780cd8-ca96-4b28-860d-1f9d7c1c85e8)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/5c445d43-079a-47e5-ad8d-23a04befb6e1)
+
+
+### Part Link
+
+https://cvilleschools.onshape.com/documents/9776ae2e36c80579ef004f3d/w/5bee859596ca7e79c8a35554/e/ddb8767a517b03fda5487111?renderMode=0&uiState=6543bdfc9d9f3716ec50379e
+
+
+### Reflection
+
+This part was very easy to make. The blueprints are very simple. I started of by sketching the biggest side of the part and extruded it so I could get the main base of the part. Then I added all of the details to it in order to finish making the part. My advice when making these parts is to always start with the biggest side or the side that makes the base of the part. It makes this much easier to do when adding the other details.
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
