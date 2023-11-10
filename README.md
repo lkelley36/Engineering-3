@@ -204,3 +204,60 @@ This part was very easy to make. The blueprints are very simple. I started of by
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+## Alignment Plate
+
+### Assignment Description
+
+Use the add on in Onshape for challenge parts and create the part shown in the challenge.
+
+
+### Evidence
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/99f6d6f1-b2e9-4026-ab2d-9dde90ba3146)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/6d1ee648-aae3-4ca0-9c69-66cf7ef8c7c6)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/fd9e012a-4691-4784-8162-a23eac497450)
+
+
+### Part Link
+
+https://cvilleschools.onshape.com/documents/ffc78e35c741be94de82674a/w/eae3a5cb2b895326dbd8477a/e/fae83d096ae50b0f58448096?renderMode=0&uiState=654e54bbc5374205373ab709
+
+
+### Reflection
+
+This assignment was pretty cool. It was simple to make as well. Using the add on for challenge parts was cool because I could see the part on the same studio that I was working in. I noticed a lot of people use circles instead of arcs though. If I were to help anyone I would tell them to make sure they're using the center point arcs for the slots instead of a full circle.
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Multi-Part Mic Stand
+
+### Assignment Description
+
+Follow the blueprints in the Onshape document and make the parts shown.
+
+
+### Evidence
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/22908666-cf34-46f7-9d75-a28fa3af1376)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/52092a26-f992-4eaf-99c2-2640535184d0)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/25c8f746-ae7e-4569-9aa4-16a462f1f02c)
+
+
+### Part Link
+
+https://cvilleschools.onshape.com/documents/434205cd6a80ea7c9732419e/w/baaa5a1a2d0a8fc2604350b6/e/720c97c5aa20b53e9112db95?renderMode=0&uiState=654e5c3cd7bd3d452529443d
+
+
+### Reflection
+
+This was a cool assignment. It was fairly easy and the blueprints were simple. I liked how it started with a beginning piece to build off of. If I were to help anyone making this, I would say both sides of the fillet/arcs on the holder and plate pieces aren't the same on each side. For example, the outside arc is offset of the inside arc so the radius isnt the same for both. The outside could be 10 and the inside could be 7.
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
