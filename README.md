@@ -261,3 +261,37 @@ This was a cool assignment. It was fairly easy and the blueprints were simple. I
 
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Locking Plier Assembly Practice
+
+### Assignment Description
+
+In this assignment I had to use the pre-made plier parts to assemble a fully functioning plier and measure its center masses depending on the position it was in.
+
+
+### Evidence
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/47b8ae7f-8ed7-4630-a304-b9c2bb7076cb)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/33655cd1-495a-4bf6-af48-540f3af3f3b0)
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/989ff92f-1647-4542-b86a-992ca32e9c7f)
+
+
+### Part Link
+
+https://cvilleschools.onshape.com/documents/f3fc100d06845500e11c465f/w/b3a4887d21a64e804a9f3fda/e/2584dbe978cf9cae9f894e5d?renderMode=0&uiState=65654de70babb72eedf746e9
+
+
+### Reflection
+
+This assignment was fairly easy compared to the rest of the assignments. It was good practice for me because I don't use assemblies that much even though I should be. I learned how to calculate the center mass using a mate connector which was pretty helpful. To anyone who were to do this assignment, I'd say watch the video on it. It was really helpful, heres the link for both videos:
+
+1st video: https://www.youtube.com/watch?v=0a3lqUaGofE
+
+2nd Video: https://www.youtube.com/watch?v=FjB2w4jCFWY&t=344s
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
