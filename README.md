@@ -271,11 +271,11 @@ In this assignment I had to use the pre-made plier parts to assemble a fully fun
 
 ### Evidence
 
-![image](https://github.com/lkelley36/Engineering-3/assets/143534776/47b8ae7f-8ed7-4630-a304-b9c2bb7076cb)
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/f6030a50-98cf-4483-989a-6bfd14f9e711)
 
-![image](https://github.com/lkelley36/Engineering-3/assets/143534776/33655cd1-495a-4bf6-af48-540f3af3f3b0)
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/f3dbf056-2de5-47ea-b7e4-ea2754737469)
 
-![image](https://github.com/lkelley36/Engineering-3/assets/143534776/989ff92f-1647-4542-b86a-992ca32e9c7f)
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/8763df99-2587-4559-ab18-cdc4feaa4503)
 
 
 ### Part Link
@@ -285,7 +285,7 @@ https://cvilleschools.onshape.com/documents/f3fc100d06845500e11c465f/w/b3a4887d2
 
 ### Reflection
 
-This assignment was fairly easy compared to the rest of the assignments. It was good practice for me because I don't use assemblies that much even though I should be. I learned how to calculate the center mass using a mate connector which was pretty helpful. To anyone who were to do this assignment, I'd say watch the video on it. It was really helpful, heres the link for both videos:
+This assignment was fairly easy compared to the rest of the assignments. It was good practice for me because I don't use assemblies that much even though I should be. I learned how to calculate the center mass using a mate connector which was pretty helpful. To anyone who were to do this assignment, I'd say watch the videos on it. They were really helpful so I included the links for both videos:
 
 1st video: https://www.youtube.com/watch?v=0a3lqUaGofE
 
