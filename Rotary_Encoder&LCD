@@ -2,11 +2,15 @@ import rotaryio
 import board
 import neopixel
 import digitalio
+import board
+import busio
+import time
 from lcd.lcd import LCD
 from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
 
-enc = rotaryio.IncrementalEncoder(board.D4. board.D3, divisor=2)
+enc = rotaryio.IncrementalEncoder(board.D4, board.D3, divisor=2)
 lcd = LCD(I2CPCF8574Interface(board.I2C(), 0x3f), num_rows=2, num_cols=16)
+i2c = busio.I2C(board.SCL, board.SDA)
 led = neopixel.NeoPixel(board.NEOPIXEL, 1)
 led.brightness = 0.3
 led[0] = (255, 0, 0)
@@ -21,3 +25,11 @@ while True:
     if button.value and button_state == "pressed":
         print("Button Is Pressed")
         button_state = None
+
+while not i2c.try_lock():
+    pass
+
+while True:
+    print("I2C addresses found:", [hex(device_address)
+                                   for device_address in i2c.scan()])
+    time.sleep(2)
