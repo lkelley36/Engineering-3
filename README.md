@@ -75,11 +75,13 @@ This assignment was a bit difficult for me since it involved the potentiometer. 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-## Photointerrupters
+## Rotary Encoder & LCD
 
 ### Description & Code
 
+Wire up an LCD and Rotary Encoder to an M4 and create a code that makes the encoder change what the lcd says from stop, slow, and go, and while changing the internal led to the corresponding word as you turn the encoder. Basically a mini traffic light.
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/d7fd14c2-c376-4225-89a5-f66ca21931c8)
 
 
 ### Evidence
@@ -88,12 +90,11 @@ ________________________________________________________________________________
 
 ### Wiring
 
-
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/8c95d1fb-2ad9-4154-b5fa-eec40cc5c8ba)
 
 
 ### Reflection
-
-
+This assignment was pretty difficult for me but it wasn't too difficult with the help from others. It's a good practice fro gathering up all the files you need for your library and seeing what they do. It helped a lot using Adafruit and using their info on how to make the code.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -108,7 +109,7 @@ Rename the and replace Copy with your name.
 
 Create all of the parts needed for the assembly.  The cylinder is given as a starting point.
  
-Answer the 4 questions below.  There is a question about the initial assembly and then one for each of the three revisions to the product.
+Answer the 4 questions below.   There is a question about the initial assembly and then one for each of the three revisions to the product.
 
 You should be able to complete this assignment in 1 hour.
 
