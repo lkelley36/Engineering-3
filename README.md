@@ -103,7 +103,7 @@ ________________________________________________________________________________
 
 ### Description & Code
 
-
+Wire up a photointerrupter to an lcd screen and create a code that make the lcd screen say when the photointerrupter is being interrupted every time you signal the photointerrupter.
 
 
 
@@ -113,6 +113,7 @@ ________________________________________________________________________________
 
 ### Wiring
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/a3dd8861-9553-49a0-8718-c7d1ff0badb4)
 
 
 ### Reflection
