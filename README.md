@@ -110,7 +110,8 @@ Wire up a photointerrupter to an lcd screen and create a code that make the lcd 
 
 ### Evidence
 
-![image](https://github.com/lkelley36/Engineering-3/assets/143534776/c8667cf7-fc1e-4040-91b7-fda1e9bec903)
+![IMG_0390-ezgif com-optimize](https://github.com/lkelley36/Engineering-3/assets/143534776/3070fb30-3d8b-4fcc-9317-2db19a0cb0b0)
+
 
 
 ### Wiring
