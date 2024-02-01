@@ -4,8 +4,6 @@
 
 Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.
 
-![image](https://github.com/lkelley36/Engineering-3/assets/143534776/8c9e3fea-0b07-48cc-bf4a-e9980a9f1792)
-
 
 ### Evidence
 
@@ -107,10 +105,12 @@ ________________________________________________________________________________
 
 Wire up a photointerrupter to an lcd screen and create a code that make the lcd screen say when the photointerrupter is being interrupted every time you signal the photointerrupter.
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/b5bc3e17-f789-402d-9181-4171df8cafc1)
 
 
 ### Evidence
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/c8667cf7-fc1e-4040-91b7-fda1e9bec903)
 
 
 ### Wiring
