@@ -4,6 +4,8 @@
 
 Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/8c9e3fea-0b07-48cc-bf4a-e9980a9f1792)
+
 
 ### Evidence
 
