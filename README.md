@@ -4,6 +4,8 @@
 
 Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/69a856cd-a9a0-43bd-8048-1695df9b7f3c)
+
 
 ### Evidence
 
@@ -35,6 +37,8 @@ Next, you will get the neopixel to turn red when your object is less than 5cm, a
 
 For your final version of this code, you'll smoothly shift the color of the onboard neopixel, corresponding to the distance.
 
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/7d072569-28d6-4af3-8f92-147c3afb7616)
+
 
 ### Evidence
 
@@ -61,6 +65,8 @@ ________________________________________________________________________________
 Wire up a 6v battery pack to this circuit with a motor.
 
 Write Python code to make the motor speed up and slow down, based on input from a potentiometer.
+
+![image](https://github.com/lkelley36/Engineering-3/assets/143534776/58c7faa0-837b-4210-bd6d-01a7657b5564)
 
 
 ### Evidence
